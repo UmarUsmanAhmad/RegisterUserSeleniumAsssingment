@@ -1,6 +1,6 @@
 Feature:
 
-  Scenario Outline:UserRegister
+  Scenario Outline:Userregister
 
     Given Open the Website"<WebBrowser>"
     And Write Email"<Email>"
